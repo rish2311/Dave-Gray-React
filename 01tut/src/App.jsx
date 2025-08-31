@@ -10,7 +10,6 @@ function App() {
 
   return (
     <div>
-      {/* <h1>Hello {handlenameChange()}</h1>  */}
       <Header />
       <Content />
       <Footer />
